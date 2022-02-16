@@ -1,1 +1,3 @@
-These are some of the most useful Markdown features available on WordPress.com. See the official Markdown project and Markdown Extra for details about all available features, and variations on the features mentioned here.
+My our work in ALX
+
+Starting to code today, so cool
